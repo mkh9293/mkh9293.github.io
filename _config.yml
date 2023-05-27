@@ -1,7 +1,6 @@
 # Site settings
 title: mkh9293
 email: mkh9293@gmail.com
-description: become a prosumer
 
 url: "https://mkh9293.github.io"
 baseurl: "" # the subpath of your site, e.g. /blog/
