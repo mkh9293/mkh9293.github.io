@@ -1,0 +1,19 @@
+# Site settings
+title: mkh9293
+email: mkh9293@gmail.com
+description: become a prosumer
+
+url: "https://mkh9293.github.io"
+baseurl: "" # the subpath of your site, e.g. /blog/
+
+# twitter_username: jekyllrb
+github_username:  mkh9293
+permalink: /:year/:month/:day/:title/
+
+# Build settings
+markdown: kramdown
+
+# highlight
+# highlighter: pygments
+# highlighter: rouge
+# highlighter: false
