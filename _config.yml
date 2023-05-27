@@ -3,7 +3,7 @@ title: mkh9293
 email: mkh9293@gmail.com
 
 url: "https://mkh9293.github.io"
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/" # the subpath of your site, e.g. /blog/
 
 # twitter_username: jekyllrb
 github_username:  mkh9293
