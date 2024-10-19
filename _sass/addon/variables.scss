@@ -1,0 +1,36 @@
+/*
+ * The SCSS variables
+ */
+
+ @import 'https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard-dynamic-subset.css';
+ @import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+ 
+/* sidebar */
+
+$sidebar-width: 260px !default; /* the basic width */
+$sidebar-width-large: 300px !default; /* screen width: >= 1650px */
+
+/* other framework sizes */
+
+$topbar-height: 3rem !default;
+$search-max-width: 200px !default;
+$footer-height: 5rem !default;
+$footer-height-large: 6rem !default; /* screen width: < 850px */
+$main-content-max-width: 1250px !default;
+$bottom-min-height: 35rem !default;
+$base-radius: 0.5rem !default;
+$back2top-size: 2.75rem !default;
+
+/* syntax highlight */
+
+$code-font-size: 0.85rem !default;
+$code-header-height: 2.25rem !default;
+$code-dot-size: 0.75rem !default;
+$code-dot-gap: 0.5rem !default;
+$code-icon-width: 1.75rem !default;
+
+/* fonts */
+
+$font-family-base: 'Pretendard', 'Source Sans Pro', 'Microsoft Yahei', sans-serif;
+$font-family-heading: 'Pretendard', Lato, 'Microsoft Yahei', sans-serif;
+$code-font-family: "Roboto Mono", monospace;
