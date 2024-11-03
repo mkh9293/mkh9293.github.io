@@ -33,3 +33,4 @@ gem "jekyll-include-cache"
 
 gem "jekyll", :git => "https://github.com/jekyll/jekyll.git", :branch => "master"
 
+gem 'jekyll-sitemap'
